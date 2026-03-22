@@ -48,7 +48,7 @@ The string deletes one character at a time and will repeat until it's empty. Eac
 The euclidean algorithm is used this way: gcd(a,b)= gcd(b, a%b). base case is b=0
 
 
-# 🧾 Summary
+# Summary
 In this assignment I solved 10 different arithmetic problems using recursion only. 
 Each of the functions includes a base and a recursive case.
 
